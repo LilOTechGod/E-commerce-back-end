@@ -17,8 +17,17 @@ This is not a deplyed web page, instead watch the video in the usage secion for 
 
 ## Usage
 
+### This video here down below demonstrates how to create the scheema from the MySQL shell, how to seed the databse from the command line, and how to start the application's server.
+[Untitled_ Nov 17, 2022 11_21 PM.webm](https://user-images.githubusercontent.com/112797175/202629948-d786d1de-5f80-40cc-8238-e3250b7b2a14.webm)
 
+### This video here down below demonstrates GET routes for all categories and single category by id, all products and a single product by id, and all tags along with a single tag by id being tested in insomnia.
+[Untitled_ Nov 17, 2022 11_55 PM.webm](https://user-images.githubusercontent.com/112797175/202631220-b3ba29f1-075e-4d34-8725-a50d7ba8cb0b.webm)
 
+### This video here down below demonstrates GET, POST, PUT, DELETE routes for categories being tested in insomnia.
+[Untitled_ Nov 18, 2022 12_51 AM.webm](https://user-images.githubusercontent.com/112797175/202639683-82967c1c-bf8d-499e-815a-a6332a9bdf33.webm)
+
+### This video here down below demonstrates GET, POST, PUT, DELETE routes for tags being tested in insomnia.
+[Untitled_ Nov 18 2022 1_15 AM.webm](https://user-images.githubusercontent.com/112797175/202643404-e7ad2a3a-5d3b-410e-83ad-6d5315d00791.webm)
 
 ## Credits
 
