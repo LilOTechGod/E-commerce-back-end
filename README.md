@@ -3,8 +3,7 @@
 
 ## User Story
 
-In order to become a full stack developer, learning Sequelize is an important part especially since it makes the interface with the SQL database more straightforward than having to script out queries from scratch. There's still quite a bit under the hood but it overall makes the process significantly easier.
-The task was to build the back end for an e-commerce site,configure a working Express.js API to use Sequelize to interact with a MySQL database. During the process I've becomed so much more familiar with how the Express.js API calls work, I become more and more confident with the back end of web development.
+In order to become a full stack developer, learning Sequelize is an important part especially since it makes the interface with the SQL database more straightforward than having to script out queries from scratch. There's still quite a bit under the hood but it overall makes the process significantly easier. The task was to build the back end for an e-commerce site,configure a working Express.js API to use Sequelize to interact with a MySQL database. Seed the database, then sync sequelize to the database so that you can test the routes. During the process I've becomed so much more familiar with how the Express.js API calls work, I become more and more confident with the back end of web development.
 
 This is not a deplyed web page, instead watch the video in the usage secion for a demonstration on how the api routes function.
 
