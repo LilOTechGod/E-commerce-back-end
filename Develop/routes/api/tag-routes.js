@@ -42,16 +42,11 @@ router.put('/:id', (req, res) => {
 
 router.delete('/:id', async (req, res) => {
   // delete on tag by its `id` value
-  try {
-    await Tag.destroy({
-      where:{
-        id:req.params.id
-      }
-    })
-      res.status(200)
-    }catch (err) {
-      res.status(500).json(err)
+  Tag.destroy({
+    where: {
+      id: req.params.id
     }
+  }).then(tag => res.json(tag))
 });
 
 module.exports = router;
