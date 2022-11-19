@@ -29,6 +29,9 @@ This is not a deplyed web page, instead watch the video in the usage secion for 
 ### This video here down below demonstrates GET, POST, PUT, DELETE routes for tags being tested in insomnia.
 [Untitled_ Nov 18 2022 1_15 AM.webm](https://user-images.githubusercontent.com/112797175/202643404-e7ad2a3a-5d3b-410e-83ad-6d5315d00791.webm)
 
+### This video here down below demonstrates GET, POST, PUT, DELETE routes for products being tested in insomnia.
+[Untitled_ Nov 18, 2022 5_55 PM.webm](https://user-images.githubusercontent.com/112797175/202822216-4532d2d7-b6fd-4d63-80ba-eb7f5b008eca.webm)
+
 ## Credits
 
 I want to give a shoutout to Leah, my instructor for help making more sense of how api routes and it's importance.
